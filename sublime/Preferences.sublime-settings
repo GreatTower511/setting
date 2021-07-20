@@ -1,0 +1,31 @@
+{
+    "auto_close_tags": true,
+    "auto_complete": true,
+    "auto_indent": true,
+    "color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+    "css_completions_scope": "source.scss - comment - variable - keyword.control - entity.other, source.sass - comment - variable - keyword.control - entity.other",
+    "draw_indent_guides": true,
+    "draw_white_space": "all",
+    "font_size": 21,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "match_brackets": true,
+    "match_brackets_angle": false,
+    "rulers":
+    [
+        80
+    ],
+    "scroll_past_end": true,
+    "tab_size": 2,
+    "theme": "ayu-mirage.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": false,
+}

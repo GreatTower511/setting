@@ -1,5 +1,9 @@
 ## README
 
+### iterm2
+
+$ git clone https://github.com/michelegera/iterm2-ayu-mirage.git
+
 ### vim
 
 $ mkdir -p ~/Documents/setting
